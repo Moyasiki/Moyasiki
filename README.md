@@ -4,4 +4,6 @@
 ### Summary this year
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Moyasiki&show_icons=true" />
 
-<img alt="FUN" src="./img/icon.png" width=256 height=258/>
+<div align="center">
+<img alt="FUN" src="./assets/.gd.gif" width=258 height=258/>
+</div>
